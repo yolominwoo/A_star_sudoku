@@ -1,1 +1,1 @@
-# A_star_sudoku
+# A* (A-Star) Algorithm 
